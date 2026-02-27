@@ -1,2 +1,2 @@
 # NSVX-Token
-Official metadata and assets for the NSVX token (Solana).
+Repository for the NSVX token metadata and assets powering the NeuroScope VR / AlphaGlow ecosystem.
